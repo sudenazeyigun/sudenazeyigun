@@ -22,5 +22,3 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudenazeyigun&label=Profile%20views&color=0e75b6&style=flat" alt="sudenazeyigun" /> </p>
 
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
